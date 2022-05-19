@@ -6,9 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="E-commerceAppAutomationProjectAprilCohort" />
         <module name="E-commerceAppAutomationProject" />
         <module name="E-commerceAppAutomationProject-master" />
+=======
+        <module name="E-commerceAppAutomationProject" />
+        <module name="E-commerceAppAutomationProject-master" />
+        <module name="E-commerceAppAutomation_2ndProject-AprilCohort" />
+>>>>>>> origin/master
       </profile>
     </annotationProcessing>
   </component>
